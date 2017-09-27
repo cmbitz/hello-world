@@ -1,2 +1,2 @@
 # hello-world
-a tutorial
+a tutorial to teach me (cmbitz) how to use github
